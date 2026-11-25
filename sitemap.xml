@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Multilingual Index Hub -->
+  <url>
+    <loc>https://avenueplazahurghada.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://avenueplazahurghada.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://avenueplazahurghada.github.io/en/eng-index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://avenueplazahurghada.github.io/de/de-index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://avenueplazahurghada.github.io/ru/ru-index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://avenueplazahurghada.github.io/"/>
+  </url>
+  <url>
+    <loc>https://avenueplazahurghada.github.io/en/eng-index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://avenueplazahurghada.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://avenueplazahurghada.github.io/en/eng-index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://avenueplazahurghada.github.io/de/de-index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://avenueplazahurghada.github.io/ru/ru-index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://avenueplazahurghada.github.io/"/>
+  </url>
+  <url>
+    <loc>https://avenueplazahurghada.github.io/de/de-index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://avenueplazahurghada.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://avenueplazahurghada.github.io/en/eng-index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://avenueplazahurghada.github.io/de/de-index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://avenueplazahurghada.github.io/ru/ru-index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://avenueplazahurghada.github.io/"/>
+  </url>
+  <url>
+    <loc>https://avenueplazahurghada.github.io/ru/ru-index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://avenueplazahurghada.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://avenueplazahurghada.github.io/en/eng-index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://avenueplazahurghada.github.io/de/de-index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://avenueplazahurghada.github.io/ru/ru-index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://avenueplazahurghada.github.io/"/>
+  </url>
+
+  <!-- Arabic Pages -->
+  <url><loc>https://avenueplazahurghada.github.io/ar-units.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ar-prices.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ar-company.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ar-compound-map.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ar-compount-features.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ar-location-features.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ar-finishing.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ar-finishing-apartments.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ar-finishing-compound.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ar-orangepay.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ar-comtact.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/01-ar-studio-50m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/02-ar-studio-51m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/03-ar-studio-40m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/04-onebedroom-63m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/05-onebedroom-68m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/06-twobedrooms-98m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/07-twobedrooms-108m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/08-twobedrooms-110m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/09-threebedrooms-123m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/10-threebedrooms-125m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/11-threebedrooms-145m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/12-twobedrooms-120m.html</loc></url>
+
+  <!-- English Pages -->
+  <url><loc>https://avenueplazahurghada.github.io/en/en-units.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/en-prices.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/en-company.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/en-compount-features.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/en-location-features.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/en-finishing.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/en-orangepay.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/en-comtact.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/01-en-studio-50m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/02-en-studio-51m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/03-en-studio-40m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/04-en-onebedroom-63m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/05-en-onebedroom-68m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/06-en-twobedrooms-98m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/07-en-twobedrooms-108m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/08-en-twobedrooms-110m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/09-en-threebedrooms-123m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/10-en-threebedrooms-125m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/11-en-threebedrooms-145m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/en/12-en-twobedrooms-120m.html</loc></url>
+
+  <!-- German Pages -->
+  <url><loc>https://avenueplazahurghada.github.io/de/de-Wohnungen.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/de-wohnungspreise.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/de-entwickler.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/de-anlagenmerkmale.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/de-lagevorteile.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/de-ausstattung.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/de-orangebay-vorteile.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/de-kontakt.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/01-de-studio-wohnung-40qm.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/02-de-studio-wohnung-50qm.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/03-de-studio-wohnung-51qm.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/04-de-ein-schlafzimmer-63qm.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/05-de-einschlafzimmer-wohnung-68qm.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/06-de-zwei-schlafzimmer-wohnung-98qm.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/07-de-zweischlafzimmer-108qm.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/08-de-zweischlafzimmer-110qm.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/09-de-zweischlafzimmer-120qm.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/10-de-dreischlafzimmer-123qm.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/11-de-dreischlafzimmer-125qm.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/de/12-de-dreischlafzimmer-145qm.html</loc></url>
+
+  <!-- Russian Pages -->
+  <url><loc>https://avenueplazahurghada.github.io/ru/ru-units.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/ru-prices.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/ru-company.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/ru-compound-map.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/ru-compound-features.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/ru-location-features.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/ru-finishing.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/ru-orangepay.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/ru-contact.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/01-ru-studio-40m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/02-ru-studio-50m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/03-ru-studio-51m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/04-ru-onebedroom-63m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/05-ru-onebedroom-68m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/06-ru-twobedrooms-98m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/07-ru-twobedrooms-108m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/08-ru-twobedrooms-110m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/09-ru-twobedrooms-120m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/10-ru-threebedrooms-123m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/11-ru-threebedrooms-125m.html</loc></url>
+  <url><loc>https://avenueplazahurghada.github.io/ru/12-ru-threebedrooms-145m.html</loc></url>
+
+</urlset>
